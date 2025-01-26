@@ -248,4 +248,4 @@ class BatteryRULPipeline:
 
 if __name__ == "__main__":
     pipeline = BatteryRULPipeline()
-    pipeline.main("./data/rul_dataset.csv")
+    pipeline.main("./battery_data/rul_dataset.csv")
